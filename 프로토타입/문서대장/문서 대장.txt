@@ -1,0 +1,28 @@
+api key====================================================================
+
+>>서울시 일자리포털 채용 정보:
+http://data.seoul.go.kr/dataList/datasetView.do?infId=OA-13341&srvType=A&serviceKind=1&currentPageNo=1
+6862514b4b776e6439304941566344
+
+>>커리어넷 직업 정보:
+http://www.career.go.kr/cnet/front/openapi/openApiJobCenter.do
+커리어넷 학과 정보:
+http://www.career.go.kr/cnet/front/openapi/openApiMajorCenter.do
+bd27b34d36bb7f9852ba8ff9f68ac521
+
+>>채용 공고 API URL:
+https://oapi.saramin.co.kr/guide/employment-url
+IVp62SFJhpB4OER45uMYji85s6BwKjs2KrPD1p9LQPsAuyUauY5O
+
+>>국가기술자격 종목별 시험 일정정보 :
+https://www.data.go.kr/subMain.jsp#/L3B1YnIvcG90L215cC9Jcm9zTXlQYWdlL29wZW5EZXZEZXRhaWxQYWdlJEBeMDgyTTAwMDAxMzBeTTAwMDAxMzUkQF5wdWJsaWNEYXRhRGV0YWlsUGs9dWRkaTo1ZWZkZDM4Yi0yZmJjLTQ3YzMtYmFlNS1kMWE2N2UzYWUxMDckQF5wcmN1c2VSZXFzdFNlcU5vPTg2MDM2MDMkQF5yZXFzdFN0ZXBDb2RlPVNUQ0QwMQ==
+OWhp4fKeD%2Fw0ZFwV9x3DPHTFa1REqs05tFe0brxuwz%2FkA35IvrcE%2Bbqb%2B%2FaefOaNTELOxveJdQZSBPQ4E9jCDQ%3D%3D
+
+
+aws======================================================================
+
+front server address : 
+http://54.180.146.43/
+
+
+
